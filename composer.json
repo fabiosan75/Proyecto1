@@ -1,0 +1,19 @@
+{
+    "name": "fabiosan75/proyecto1",
+    "description": "Estructura para organización de proyecto 1 bajo modelo CI-CD",
+    "type": "project",
+    "license": "propietary",
+    "autoload": {
+        "psr-4": {
+            "Fabiosan75\\Proyecto1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fabiosan75",
+            "email": "fabiosan75@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
